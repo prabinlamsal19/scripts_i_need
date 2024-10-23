@@ -1,0 +1,5 @@
+pubget-all (1.0.0-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- user <prabinlamsal74@gmail.com>  Fri, 18 Oct 2024 17:39:36 +0545

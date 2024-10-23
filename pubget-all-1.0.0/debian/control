@@ -1,0 +1,16 @@
+Source: pubget-all
+Section: unknown
+Priority: optional
+Maintainer: user <prabinlamsal74@gmail.com>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/pubget-all
+#Vcs-Git: https://salsa.debian.org/debian/pubget-all.git
+Rules-Requires-Root: no
+
+Package: pubget-all
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

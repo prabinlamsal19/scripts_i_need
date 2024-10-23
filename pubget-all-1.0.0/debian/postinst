@@ -1,0 +1,3 @@
+echo "alias pubget-all='pubget-all.sh'" >> /etc/profile.d/pubget_alias.sh;
+chmod +x /etc/profile.d/pubget_alias.sh;
+source /etc/profile.d/pubget_alias.sh;
